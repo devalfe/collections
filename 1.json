@@ -1,0 +1,11 @@
+{
+  "name": "Endurance",
+  "description": "son naves",
+  "image": "https://raw.githubusercontent.com/devalfe/collections/main/0.png",
+  "attributes": [
+    {
+      "name": "HP",
+      "value": "2000"
+    }
+  ]
+}
